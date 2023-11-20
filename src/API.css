@@ -1,0 +1,18 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: wheat;
+    }
+    
+    .checkbox-item {
+      margin-bottom: 20px;
+    }
+    
+    
+    @media (min-width: 800px) and (min-height: 600px) {
+      .centered-list-container {
+        min-height: 600px;
+      }
+    }  
